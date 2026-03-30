@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data (Crucial: Keep your PDFs out of Git!)
+data/uploads/
+data/output/
+*.pdf
+*.csv
+
+# Secrets
+.env
